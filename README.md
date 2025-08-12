@@ -1,12 +1,11 @@
-# 💼 Cleilson Nogueira Nobre
+# 💼 Cleilson Nobre
 
 📍 Fortaleza, Ceará, Brasil  
-📧 **E-mail:** c@outlook.com  
-🔗 [LinkedIn](#) | [Portfólio](#)  
+📧 **E-mail:** cleilson_nobre@hotmail.com  
 
-![Profile Views](https://komarev.com/ghpvc/?username=cleilsonnobre&label=Visualizações%20do%20perfil&color=blue&style=flat)  
-![GitHub followers](https://img.shields.io/github/followers/cleilsonnobre?label=Seguidores&style=flat&color=success)  
-![GitHub stars](https://img.shields.io/github/stars/cleilsonnobre?label=Stars&style=flat&color=yellow)  
+![Profile Views](https://komarev.com/ghpvc/?username=cnnobre&label=Visualizações%20do%20perfil&color=blue&style=flat)  
+![GitHub followers](https://img.shields.io/github/followers/cnnobre?label=Seguidores&style=flat&color=success)  
+![GitHub stars](https://img.shields.io/github/stars/cnnobre?label=Stars&style=flat&color=yellow)  
 
 ---
 
@@ -29,7 +28,7 @@ Conhecimentos sólidos em **servidores Windows/Linux, redes, softwares de gestã
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleilsonnobre&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonnobre&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cnnobre&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cnnobre&layout=compact&theme=tokyonight)  
 
 ---
