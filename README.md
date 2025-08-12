@@ -9,7 +9,7 @@
 
 ---
 
-## 📝 Resumo Profissional
+## 📝 Resumo
 Profissional com ampla experiência em **Tecnologia da Informação, Gerenciamento de Projetos e Instalações Técnicas**, com atuação nos setores de alumínio, vidro e gestão documental.  
 Hábil no planejamento, execução e monitoramento de projetos de infraestrutura e redes, alinhando as entregas às necessidades dos clientes e aos prazos estabelecidos.  
 
